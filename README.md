@@ -5,11 +5,6 @@
   <img src="assets/banner.svg" alt="URL Shortener Banner" />
 </p>
 
-<p align="center">
-  <img src="assets/logo.svg" width="92" height="92" alt="URL Shortener Logo" />
-</p>
-
-
 ## Project Overview
 
 Welcome to **URL Shortener**, a full-stack application designed to convert long, cumbersome URLs into short, memorable, and easily shareable links. This project is built with a segregated architecture, featuring a robust backend API and a modern frontend interface.
@@ -170,11 +165,9 @@ Here are some screenshots demonstrating the application's functionality:
 
 This image shows the main dashboard where users can input a long URL, optionally provide a custom short code, and view the generated short link along with a list of previously shortened URLs.
 
-!https://short.io/("C:\Users\VISHAL PRAJWAL S\Pictures\Screenshots\Screenshot 2025-11-10 133321.png")
-<img src="C:\Users\VISHAL PRAJWAL S\Pictures\Screenshots\Screenshot 2025-11-10 133321.png" alt="Screenshot of the app" width="300" />
 
 <p align="center">
-  <img src="assets/pic01.png" alt="URL Shortener Banner" />
+  <img src="assets/pic01.png" alt="URL Shortener Banner" width="300" height="400"/>
 </p>
 
 
@@ -183,11 +176,8 @@ This image shows the main dashboard where users can input a long URL, optionally
 
 This screenshot further illustrates the dashboard, showcasing how newly shortened URLs are added to the list and how the click count updates for each link.
 
-![Dashboard with New Shortened URL and Updated Clicks]("C:\Users\VISHAL PRAJWAL S\Pictures\Screenshots\Screenshot 2025-11-10 133454.png")
-<img src="C:\Users\VISHAL PRAJWAL S\Pictures\Screenshots\Screenshot 2025-11-10 133454.png" alt="Screenshot of the app" width="300" />
-
 <p align="center">
-  <img src="assets/pic02.png" width="92" height="92" alt="URL Shortener Logo" />
+  <img src="assets/pic02.png" width="200" height="300" alt="URL Shortener Logo" />
 </p>
 
 ---
