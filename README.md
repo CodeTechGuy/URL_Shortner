@@ -167,7 +167,7 @@ This image shows the main dashboard where users can input a long URL, optionally
 
 
 <p align="center">
-  <img src="assets/pic01.png" alt="URL Shortener Banner" width="300" height="400"/>
+  <img src="assets/pic01.png" alt="URL Shortener Banner" width="400" height="500"/>
 </p>
 
 
@@ -177,7 +177,7 @@ This image shows the main dashboard where users can input a long URL, optionally
 This screenshot further illustrates the dashboard, showcasing how newly shortened URLs are added to the list and how the click count updates for each link.
 
 <p align="center">
-  <img src="assets/pic02.png" width="200" height="300" alt="URL Shortener Logo" />
+  <img src="assets/pic02.png" width="400" height="500" alt="URL Shortener Logo" />
 </p>
 
 ---
