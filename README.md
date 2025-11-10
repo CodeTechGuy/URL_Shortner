@@ -185,4 +185,5 @@ This screenshot further illustrates the dashboard, showcasing how newly shortene
 ## 🧑‍💻 Author
 
 **VISHAL PRAJWAL S**
-* **GitHub:** [https://github.com/code-tech-guy](https://github.com/code-tech-guy)
+*FullStack Developer*
+* **GitHub:** [https://github.com/CodeTechGuy](https://github.com/CodeTechGuy)
